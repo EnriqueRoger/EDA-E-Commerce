@@ -1,6 +1,6 @@
 # **Análise Exploratória de Dados de um E-commerce**
 
-![final_image](https://github.com/user-attachments/assets/cfb05277-9f31-48ee-bced-7b9849d18a16)
+![final_image](https://github.com/user-attachments/assets/5bb53f7e-f520-41be-b645-867396e42aa3)
 
 A Análise Exploratória de Dados (EDA) de um e-commerce é um processo essencial
 que permite compreender a estrutura e características dos dados de vendas online. 
